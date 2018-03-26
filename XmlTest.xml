@@ -2,16 +2,16 @@
   <movie>
     <title>少林足球</title>
     <director>周星驰</director>
-	<year>2001</year>
+    <year>2001</year>
   </movie>
   <movie>
     <title>菊次郎的夏天</title>
     <director>北野武</director>
-	<year>1999</year>
+    <year>1999</year>
   </movie>
   <movie>
     <title>海边的曼彻斯特</title>
     <director>肯尼思洛纳根</director>
-	<year>2017</year>
+    <year>2017</year>
   </movie>
 </list>
